@@ -1,0 +1,15 @@
+modmap:
+  - name: Global
+    remap:
+      # CapsLock/Ctrl_L -> Esc
+      CapsLock: Tab
+      Tab: Esc
+      KEY_T: KEY_B
+      KEY_G: KEY_T
+      KEY_V: KEY_G
+      KEY_B: KEY_V
+      KEY_H: KEY_M
+      KEY_M: KEY_H
+      Ctrl_L: WIN_L
+      WIN_L: Ctrl_L
+      SHIFT_R: BACKSPACE

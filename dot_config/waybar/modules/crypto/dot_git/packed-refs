@@ -1,0 +1,12 @@
+# pack-refs with: peeled fully-peeled sorted 
+d1b67c187c80a90acf726dc13ce4103ce814ba38 refs/remotes/origin/dependabot/github_actions/actions/setup-python-4
+6abb87af7f59ed2d8d28057ab68bd2b8f1126336 refs/remotes/origin/dependabot/pip/black-22.10.0
+6366e6944ae6c62502b64e0186ae59535011b0da refs/remotes/origin/dependabot/pip/pytest-7.2.0
+44fdf7b75b01109cfcd3c2db6d4ff5a6bdc48830 refs/remotes/origin/dependabot/pip/pytest-cov-4.0.0
+cd90c6fb8f9ff1cf4f51914a009c642f424771a4 refs/remotes/origin/dependabot/pip/requests-2.28.1
+e5c99c2b28af69eaa50e74592c5875b4ed56737f refs/remotes/origin/feature/cryptoicons
+631e8e70602c24da8bab2e2335f1a3bf96c4287f refs/remotes/origin/master
+a3df5a15f41f86833a8bef32edd3661b2a02b235 refs/tags/v1.0.0
+65aa7d32bcce9a9daa7de5213a90847b8dbf6248 refs/tags/v1.1.0
+7e6f5c63d5ccc3f02a89ff22605fc884bc8fbaa1 refs/tags/v1.1.1
+e6f8208bbdb83f34083c77c0163d761be59e88ab refs/tags/v1.1.2
